@@ -59,7 +59,7 @@ The **Currency Converter** is a simple React-based web application that converts
 *(Optional: Add screenshots to make the README more engaging.)*
 
 Example:  
-![Screenshot of Currency Converter](./assets/screenshot.png)
+![Screenshot of Currency Converter](./src/assets/Screenshot.png)
 
 ---
 
